@@ -1,0 +1,10 @@
+body{
+    background-color: #ffffff
+}
+
+ul{
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: inline;
+}

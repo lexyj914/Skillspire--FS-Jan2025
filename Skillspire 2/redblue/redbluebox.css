@@ -1,0 +1,27 @@
+.flex-container {
+    display:flex;
+    height:1000px;
+    outline:dotted red 2px;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+#blueblock{
+    background-color:blue;
+    width:800px;
+    height:800px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+#redblock{
+    background-color:red;
+    width:200px;
+    height:200px;
+    
+    
+}

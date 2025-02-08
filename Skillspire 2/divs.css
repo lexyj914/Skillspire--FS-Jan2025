@@ -1,0 +1,14 @@
+.flex-container {
+  outline:solid black 2px;
+}
+
+div {
+  display: inline-block;
+}
+
+#bluebox {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
